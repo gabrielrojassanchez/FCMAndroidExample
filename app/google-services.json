@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "265955690796",
+    "firebase_url": "https://fcmexample-d4e69.firebaseio.com",
+    "project_id": "fcmexample-d4e69",
+    "storage_bucket": "fcmexample-d4e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265955690796:android:3ea38aa4e4f7281c",
+        "android_client_info": {
+          "package_name": "com.icolaborate.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265955690796-ljnir194dv3nuon8j1eahgavfv5dio0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-eUqAzECRHW6bI-LGxEJ78bsaCxPCTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265955690796-ljnir194dv3nuon8j1eahgavfv5dio0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
