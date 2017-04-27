@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "265955690796",
+    "project_number": "YOUT PROJECT NUMBER",
     "firebase_url": "https://fcmexample-d4e69.firebaseio.com",
     "project_id": "fcmexample-d4e69",
     "storage_bucket": "fcmexample-d4e69.appspot.com"
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDU-eUqAzECRHW6bI-LGxEJ78bsaCxPCTg"
+          "current_key": "YOUR FCM-PROJECT KEY"
         }
       ],
       "services": {
